@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{2EB46EB4-9FAD-4FFD-96B8-68C72978B848}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfinityTest/DeliveryInterface.cs">
+    <Files>
+      <File FileName="InfinityTest/Program.cs" Line="40" Column="44" />
+      <File FileName="InfinityTest/Vehicle.cs" Line="8" Column="46" />
+      <File FileName="InfinityTest/Truck.cs" Line="13" Column="20" />
+      <File FileName="InfinityTest/Destination.cs" Line="5" Column="3" />
+      <File FileName="InfinityTest/DeliveryInterface.cs" Line="3" Column="2" />
+      <File FileName="InfinityTest/Van.cs" Line="13" Column="20" />
+      <File FileName="InfinityTest/DeliverySchedule.cs" Line="4" Column="1" />
+      <File FileName="InfinityTest/VehicleDelivery.cs" Line="7" Column="3" />
+      <File FileName="InfinityTest/DeliveryBase.cs" Line="22" Column="41" />
+      <File FileName="InfinityTest/VehicleInterface.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InfinityTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

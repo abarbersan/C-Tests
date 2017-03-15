@@ -1,0 +1,5 @@
+/Users/Skeeter/Development/InfinityProj/InfinityTest/InfinityTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Skeeter/Development/InfinityProj/InfinityTest/InfinityTest/bin/Debug/InfinityTest.exe.mdb
+/Users/Skeeter/Development/InfinityProj/InfinityTest/InfinityTest/bin/Debug/InfinityTest.exe
+/Users/Skeeter/Development/InfinityProj/InfinityTest/InfinityTest/obj/x86/Debug/InfinityTest.exe
+/Users/Skeeter/Development/InfinityProj/InfinityTest/InfinityTest/obj/x86/Debug/InfinityTest.exe.mdb
